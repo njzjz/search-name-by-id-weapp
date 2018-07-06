@@ -1,0 +1,15 @@
+/**index.wxss**/
+.output {
+  margin-top: 0px;
+  text-align: center;
+}
+.inputarea {
+  margin-top: 50px;
+  background-color: white;
+}
+.buttonarea {
+  margin-top: 50px;
+}
+page{
+  background-color: ghostwhite;
+}

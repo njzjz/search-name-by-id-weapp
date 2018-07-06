@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="section">
+<view class="container">
+  <view class="inputarea">
+    <input  bindinput="bindKeyInput" placeholder="学号或工号" type="digit" maxlength="11" focus/>
+  </view>
+  <view class="buttonarea">
+    <button class="button" type="primary" bindtap="search">{{button}}</button>
+  </view>  </view>
+  <view class="output" style="flex-direction:row;">
+      <text class="output">{{output}}</text>
+  </view>
+</view>
