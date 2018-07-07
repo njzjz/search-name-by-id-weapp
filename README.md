@@ -1,5 +1,6 @@
 # Search Name by ID in East China Normal University (华东师范大学根据学号查询姓名)
-![Chinese version](https://jaywcjlove.github.io/sb/lang/chinese.svg)]
+![Chinese version](https://jaywcjlove.github.io/sb/lang/chinese.svg)
+
 A Wechat Mini Program with which you can search name by student ID in East China Normal University. Teacher ID is also avaiable.
 
 [name.php](https://github.com/njzjz/search-name-by-id-web/blob/master/name.php) must run in the server.
