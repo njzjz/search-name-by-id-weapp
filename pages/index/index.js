@@ -14,7 +14,7 @@ Page({
   search:function(){
     var  page=this
     wx.request({
-        url: 'https://map.zgchemicals.mobi/ecnuid/name.php',
+        url: app.globalData.ajaxurl,
         data: {
             id: inputValue
         },

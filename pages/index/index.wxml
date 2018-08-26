@@ -10,4 +10,7 @@
   <view class="output" style="flex-direction:row;">
       <text class="output">{{output}}</text>
   </view>
+  <view class="output" style="flex-direction:row;margin:100rpx;">
+      <text class="output">本程序为开源项目，源代码：https://github.com/njzjz/search-name-by-id-weapp</text>
+  </view>
 </view>
