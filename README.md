@@ -7,7 +7,7 @@ A Wechat Mini Program with which you can search name by student ID in East China
 
 **Author**: Jinzhe Zeng
 
-**Email**: njzjz@qq.com 10154601140@stu.ecnu.edu.cn
+**Email**: jzzeng@stu.ecnu.edu.cn
 
 ## Usage
 Use Wechat to scan the Mini Program Code:
